@@ -25,9 +25,9 @@ I've found several webcomic scraper on the internet - but  **not even a single o
 
 ### Usage instructions:
 
-Use 
+Use the foll if you don't have the Beautiful Soup library
 > pip install BeautifulSoup4
-if you don't have the Beautiful Soup library
+
 
 Code written for Python 3. May need some minor changes for working in Python 2
 Worse, there wasn't any good way for browsing the comics. Valuable extra jokes like XKCD's alt text were lost.
