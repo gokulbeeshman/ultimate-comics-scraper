@@ -21,7 +21,7 @@
 
 ### Why I'm making this:
 
-I've found several webcomic scraper on the internet - but  **not even a single one was usable** - they just dumped images, didn't account for timeouts or have any error handling. Most of them would crash halfway and were extremely slow.
+I've found several webcomic scraper on the internet - but  **not even a single one was usable** - they just dumped images, didn't account for timeouts or have any error handling. Most of them would crash halfway and were extremely slow. Worse, there wasn't any good way for browsing the comics. Valuable extra jokes like XKCD's alt text were lost.
 
 ### Usage instructions:
 
@@ -30,4 +30,4 @@ Use the foll if you don't have the Beautiful Soup library
 
 
 Code written for Python 3. May need some minor changes for working in Python 2
-Worse, there wasn't any good way for browsing the comics. Valuable extra jokes like XKCD's alt text were lost.
+
