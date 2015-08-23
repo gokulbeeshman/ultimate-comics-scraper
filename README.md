@@ -9,6 +9,7 @@
 * Locally storing comics that have been downloaded already and the related information (like author, alt text etc)
 * Making a page that lets viewers browse comics at convenience
 * Completing download functions for a few comics
+* Adding interface for users
 
 ### Comics supported as of now:
 * XKCD
