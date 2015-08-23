@@ -10,6 +10,7 @@
 * Making a page that lets viewers browse comics at convenience
 * Completing download functions for a few comics
 * Adding interface for users
+* Script to periodically check for updates and create notifications for new comics
 
 ### Comics supported as of now:
 * XKCD
