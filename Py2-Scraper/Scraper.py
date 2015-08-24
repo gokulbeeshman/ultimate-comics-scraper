@@ -79,7 +79,7 @@ def getDogHouseDiaries(id):
 	return next
 
 
-def getSaturdayMorningBreakfastCereal(id):
+def getSMBC(id):
 	url='http://www.smbc-comics.com/index.php?id=%d' %id
 
 	def scrape_image(soup):
